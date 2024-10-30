@@ -128,7 +128,7 @@ In particular it is the flag that is `Deprecated` in both cases for the extensio
 
 As a concrete example, the flag `NoRank2Types` is deprecated, but the behavior from the lack of `Rank2Types` is not changed.
 
-### 2.2 Extensions Impacting Stablity Categorization
+### 2.2 Extensions Impacting Stability Categorization
 
 Here we list extensions where the categorization is different based on if the extension is enabled or not. This separation is specifically to make reading the tables of extensions easier. We have further divided this section into `Legacy` and `Experimental` extensions.
 
